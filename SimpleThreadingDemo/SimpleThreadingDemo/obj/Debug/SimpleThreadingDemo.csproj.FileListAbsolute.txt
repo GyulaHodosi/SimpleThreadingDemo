@@ -1,0 +1,6 @@
+D:\Codecool\Advanced\SI-3\Threading\SimpleThreadingDemo\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe.config
+D:\Codecool\Advanced\SI-3\Threading\SimpleThreadingDemo\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe
+D:\Codecool\Advanced\SI-3\Threading\SimpleThreadingDemo\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.pdb
+D:\Codecool\Advanced\SI-3\Threading\SimpleThreadingDemo\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.csprojAssemblyReference.cache
+D:\Codecool\Advanced\SI-3\Threading\SimpleThreadingDemo\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.exe
+D:\Codecool\Advanced\SI-3\Threading\SimpleThreadingDemo\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.pdb
